@@ -1,0 +1,101 @@
+TODO:
+- Create Illustration 
+- Create list of actionable todo list:
+	- Think more about unit transactions involved in our business
+	- Research business model of Echo360 
+	- Research pricing model of Canvas/Blackboard
+
+- Analyze rhetoric of the pitch
+	// TODO Analyze our pitch's Time orientations, Persuasive appeals, or the structure of logical appeals
+		- Time orientations
+			- The past
+				Example: “Because our business grew unexpectedly in 2012, we had to outsource some production to partners. We were able to meet demand, but quality measures suffered, damaging our reputation.”
+				- Traditional lecture
+
+			- The present (What is happening?)
+				Example: “As a result, our customer satisfaction ratings have dropped to unsustainable levels. Our market lead is eroding.”
+				- Compromises a lot of stuff:
+					- Taking notes is a good way to be 2 minutes behind
+					- Prof pace is not suitable with students learning capacity
+					- Notes can loose context
+					- Absences
+					- Once lecture over then its over
+			- The future
+				Example: “If we do not address this problem, we will lose our leadership in the market. ...I recommend establishing rigid QA guidelines that must be met when we outsource.”
+				- If we staying this way students will keep losing a lot of values from their lecture that they've been paying
+				- What are the things that student missed by having these problem above:
+					- Money
+					- Time
+					- They can become anxious
+					- They're not really owning their learning resources
+					- Cannot make the teaching style optimal for their learning style and or pace
+		- Persuasive appeals
+			- Logos (Logic)
+				- We need to make a claim about our product
+				- Back it up with statistics,quotes or testimony
+			- Pathos (emotion)
+				- Is our presentation relatable to the audience i.e. the students
+				- Determine the mood of our pitch between: Passion,Charismatic,excitement,fear,worry,outrage
+			- Ethos (authority, affiliation, credentials)
+				- Put some credentials(?)
+				- Put some expereince (?)
+				- Put tech buzzword/jargon
+
+	// TODO Create a Toulmin Structure
+		Claim: “This restaurant is the best Thai restaurant in town.”
+		(Warrant: “...because the true test of a Thai restaurant is its Masaman curry, and...”)
+		Evidence: “Their Masaman curry was rated best in the city.”
+
+- Analyze our pitch openers
+	// TODO 
+	- Choose what will be our openers from these common openers? 
+		- Stories: “Agriculture is one of humanity’s most ancient activities…” (Twodoo)
+		- Scenarios: “Your car is on fire!” (Breakit); “Just imagine that…”
+		- Quotes: “The task of art today…” (Twodoo)
+		- Questions: “Why are you here?” (CatchBox)
+		Interesting facts: “How many locks are in this building?” (K6015)
+	//TODO
+	- Discuss how our openers of our choosing position our innvovation
+
+Agenda for 11/23 meeting
+- How do we integrate/presents the past,the present,the future? 
+	- Like in which slides are we talking about those 3 points?
+- Answer the persuasive appeals Logos,pathos,ethos
+	- Figure out how to integrate/presents persuasive appeals into our presentation
+- Finish todo list to create Toulmin structure
+- Finalize openers (Go for TODO above)
+- Discuss how our openers of our choosing position our innvovation
+
+
+
+
+
+
+
+Unit transactions invovled in our business:
+	- University pays us 25k / semester = 50k/year 
+	- How we use that 50k:
+		- Development
+		- Server 
+		- Marketing
+		- What are the cost that is repeated every year?
+			- Dev
+			- Server
+				- Each university will have their own amazon server instance
+				- Based on our calculation -> $30/month for 1tb of uploads every month
+					- TODO:
+						Put our reason on how we come to 25k numbers
+
+
+		- What are the cost associated with each university? 
+			- 
+
+
+The non human tech cost:
+	- Store the webapp somewhere
+	- The web app will store:
+		- Videos
+		- Profiles for University, students, and professors
+		- Datas surrounding the experiment of the lecture (annotations, user comments)
+		- Students notebook (that will store screenshots of lecture and put it in virtual notebook)
+		- 

@@ -1,0 +1,103 @@
+Crowdsource lecture recording
+	Assumptions of Meerkat for classroom: 
+	- Proffessor are okay of class lecture are being recorded
+
+		NOT OK 
+		Some proffessors are afraid about the idea that their conversantions posted online making them afraid to talk openly. 
+			Solution: 
+			- Hide the camera while recording 
+			- It will not be posted online freely. It can only be accessed by either the student of the class or anyone that is member of the service. 
+
+			Assumptions: Some proffessors are afraid about the idea that their conversantions posted online making them afraid to talk openly. 
+			
+			Step to validate: Ask proffessor on what they think about class lecture being recorded
+
+		NOT OK 
+		There is problem in University of Missoury-Kansas city lecture by labor studies proffessor. In the class she and the classroom ccolleague advocated union violence. This in turns goes viral and threatening the proffesor itself. 
+			Solution: 
+			- It will not be posted online freely. It can only be accessed by either the student of the class or anyone that is member of the service. 
+			
+			Assumptions: Some proffessors are afraid about the idea that their conversantions posted online making them afraid to talk openly. 
+			
+			Step to validate: Ask proffessor on what they think about class lecture being recorded
+
+		OK
+		But there is argument that say that recording lecture might be the best way to achieve public university's goal of promoting shared knowledge. 
+
+			Step to validate: 
+			- Ask bunch of students on what they think
+			- We need to build mvp and measure classroom student traction of the video first and then we can measure the traction of the public
+
+		OK
+		"...We are public, taxpayer-funded faculty, and so we should think long and hard about any sort of restrictions on the rights of our students to record us as we work," said Charles Davis, a journalism professor and former executive director of the National Freedom of Information Coalition.
+
+			Step to validate: Search any written law about the sharing of recorded lecture
+
+		NOT OK 
+		The proposed policy, a copy of which was provided to The Associated Press upon request, notes that "unauthorized distribution of such materials is a violation of academic standards and may violate copyright and/or privacy rights." Students and professors who violate the policy could face university disciplinary sanctions.
+			
+			Step to validate: Search any written law about the sharing of recorded lecture
+
+		SORTA OK 
+		"Faculty objections led to a clarification that students would still be able to record lectures unless someone objects. But the gist of the restrictions remains. "
+			Solution: 
+			- We can make the proffessor and all of the student sign the agreement before any sort of recordings can be made
+			- But if there is only one student who is not agree it will affect the whole decision and turns to impeding the growth of the meerkat for classroom. 
+
+		NOT OK 
+		"I don't want to have to think about what I said in class because my boss might see it," the student told Ancel.
+			Solution: 
+			- We can blur the face of the student and teacher in the video. 
+
+		Bunch of OKs:
+			- Fewer distractions from taking note since the lecture are recorded
+			- Will give students more time to digest information since the lecture are recorded anyway
+			- You can transcribe your notes at home 
+
+			Step to validate: 
+				Need to set up 'Meerkat for classroom' MVP at least in one class that I take and see the students reaction about it. 
+		Bunch of Not OKs: 
+			- False sense of comforts 
+				Solution: 
+				- Develop somekind of personal reminder of need to watch lecture, or maybe a calendar integration so that student can be reminded on when they need to review their lecture. 
+			- Privacy concerns 
+			- Probably your way of learning is indeed by just taking the notes not just by relistening to lecture over and over again.
+			- Student might stop going to class
+				Step to validate: 
+					- Ask about proffessor opinion about this , ask them if they agree on crowdsource lecture recording, how you make sure that students to keep going to class. 
+
+	- Student find that recorded lecture of their class are useful 
+		- I post 'Meerkat for classroom' in OSSP and it only gets 2 likes wtf.
+		
+		Step to validate: 
+		- Create a smoke advertisement about it around UT and see the traction. 
+			- Create propaganda of "Democratize Class lecture"
+		- Need to set up 'Meerkat for classroom' MVP at least in one class that I take and see the students reaction about it. 
+	
+	- At least a student are willing to record a lecture
+		Step to validate: 
+		- Figure out a way to incentivize the lecture recorder. 
+			- Ask bunch of student whether they are willing to get paid $$$ while recording a lecture. 
+				 - How to choose which student will hold the lecture though? 
+				 	- Probably we can just do first come first serve and let the whole class rate the recordings. If the rate fall below some threshold they will need to change the recorder to somebody elese. 
+				 - Who are paying though? 
+				 	- Student that are signing up to the service
+				 		- Is this fair though? Student technically will pay for some recorder for a class recordings that they never going to watch. 
+				 	- University funding 
+				 		- So basically we bring 'online classes recordings' to more classes. And university needs to pay someone in the class to be someone like editor: the one that record and possibly edit the record and also upload it to the net. 
+	- The student that is agreed to record the lecture will be consistently go to lecture
+		- If they get paid they better go to class. 
+		- Student wants to get paid just by using their phone to record the lecture 
+	- Student can record a high quality recording of their class lecture
+		Steps to validate: 
+		- MVP
+
+
+
+	Iteration: 
+
+	Feedback and/or plans to get feedback: 
+	intended market: 
+	assesment of competitors; 
+
+Resume handling in career fair 
